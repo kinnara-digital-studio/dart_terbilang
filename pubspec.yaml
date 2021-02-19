@@ -1,8 +1,7 @@
 name: dart_terbilang
 description: A new Flutter package.
 version: 0.0.1
-author: Gumilar Pratama Rusmana & Aristo Hadisoeganda
-homepage:
+homepage: https://github.com/kinnara-digital-studio/dart_terbilang
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
